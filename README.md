@@ -1,12 +1,18 @@
-# 42.uz-masalalar-yechimi
-# Daily Python Problems and Solutions
+# Python Problems from 42.uz by Azimjon
 
 ## Introduction
 
-This repository contains daily Python problems and their solutions. Each day, a new problem is added along with a detailed solution. This project aims to help Python enthusiasts improve their problem-solving skills and deepen their understanding of Python programming.
+This repository contains solutions to Python problems from each subject provided by 42.uz, curated by Azimjon. The project aims to help learners tackle a diverse set of problems, enhancing their understanding and proficiency in Python programming.
 
 ## Features
 
-- Daily Python problems with solutions
+- Comprehensive solutions to problems from 42.uz
 - Detailed explanations and comments for each solution
-- A wide range of topics and difficulty levels
+- Coverage of various subjects and difficulty levels
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/42uz-python-problems.git
+   cd 42uz-python-problems
