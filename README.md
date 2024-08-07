@@ -10,9 +10,3 @@ This repository contains solutions to Python problems from each subject provided
 - Detailed explanations and comments for each solution
 - Coverage of various subjects and difficulty levels
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/42uz-python-problems.git
-   cd 42uz-python-problems
