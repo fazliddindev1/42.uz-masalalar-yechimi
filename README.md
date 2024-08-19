@@ -1,4 +1,4 @@
-# Python Problems from 42.uz by Azimjon
+# Python Problems from 42.uz
 
 ## Introduction
 
